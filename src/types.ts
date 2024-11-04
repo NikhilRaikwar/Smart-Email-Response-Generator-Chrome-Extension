@@ -1,0 +1,1 @@
+export type ToneType = 'professional' | 'friendly' | 'casual' | 'formal';
